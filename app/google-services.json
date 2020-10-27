@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1075490522836",
+    "firebase_url": "https://travelku-f562b.firebaseio.com",
+    "project_id": "travelku-f562b",
+    "storage_bucket": "travelku-f562b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075490522836:android:a63b27385a4da385815d41",
+        "android_client_info": {
+          "package_name": "com.asus.travelku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075490522836-puaepue5faqoi5c6e01jc11k520mq3kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqW3qojWQTY15o4-PAdJDZAooayNJ_xDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075490522836-puaepue5faqoi5c6e01jc11k520mq3kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
